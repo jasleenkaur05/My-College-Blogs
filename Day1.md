@@ -1,7 +1,3 @@
----
-title: My Markdown Page
----
-
 # My Markdown Content
 
 # Day 1: My First Day in College
