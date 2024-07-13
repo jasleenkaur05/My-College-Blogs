@@ -1,7 +1,3 @@
----
-title: My Markdown Page
----
-
 # My Markdown Content
 
 # Introduction
