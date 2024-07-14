@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: My GitHub Pages Site
+description: This is my site description.
+theme: minima
