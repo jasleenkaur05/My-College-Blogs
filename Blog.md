@@ -1,5 +1,3 @@
-# My Markdown Content
-
 # Introduction
 
 ## About Me
