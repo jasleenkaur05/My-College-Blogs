@@ -1,5 +1,3 @@
-# My Markdown Content
-
 # Day 1: My First Day in College
 
 Today marked the beginning of my college journey, and it was quite an eventful day. Here's a recap of what I experienced and learned.
